@@ -2,7 +2,7 @@
   "name": "react-app-host-testing",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://xomrau.github.io/react-app-host-testing",
+  "homepage": "/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
